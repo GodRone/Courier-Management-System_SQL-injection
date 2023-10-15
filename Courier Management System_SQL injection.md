@@ -29,11 +29,11 @@ Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
 Connection: close
 ```
 
-![image-20231015135419799](Courier Management System_SQL injection.assets/image-20231015135419799.png)
+![image-20231015135419799](https://github.com/GodRone/Courier-Management-System_SQL-injection/blob/main/Courier%20Management%20System_SQL%20injection.assets/image-20231015135207862.png)
 
-![image-20231015135207862](Courier Management System_SQL injection.assets/image-20231015135207862.png)
+![image-20231015135207862](https://github.com/GodRone/Courier-Management-System_SQL-injection/blob/main/Courier%20Management%20System_SQL%20injection.assets/image-20231015135419799.png)
 
-![image-20231015135659359](Courier Management System_SQL injection.assets/image-20231015135659359.png)
+![image-20231015135659359](https://github.com/GodRone/Courier-Management-System_SQL-injection/blob/main/Courier%20Management%20System_SQL%20injection.assets/image-20231015135659359.png)
 
 
 
